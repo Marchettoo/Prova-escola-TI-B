@@ -38,7 +38,8 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | 1 | Google Gemini | https://share.gemini.google/6ueSWYhxEkly |
-| — | | |
+| 2 | Claude usei para estudo no dia anterior| [Guia rápido de SDD para a sua atividade - Claude ia.txt](https://github.com/user-attachments/files/33183699/Guia.rapido.de.SDD.para.a.sua.atividade.-.Claude.ia.txt)
+ |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
