@@ -1,0 +1,9 @@
+{
+  "slug": "Prova-escola-TI-B",
+  "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+  "TARIFA_HORA_CENTAVOS": 550,
+  "FRACAO_MINUTOS": 15,
+  "TETO_DIARIO_CENTAVOS": 8000,
+  "PORTA_SERVICO": 8004,
+  "TOLERANCIA_MINUTOS": 0
+}
