@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Marchettoo
+Nome: Gabriel Vinicius Silva Marchetto
 
-RA: >>> PREENCHER <<<
+RA: 231806632
 
 Conta GitHub: @Marchettoo
 
