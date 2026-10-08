@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "Prova-escola-TI-B",
+  "repo_url": "https://github.com/Marchettoo/Prova-escola-TI-B",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/Marchettoo/Prova-escola-TI-B/issues/1",
+  "gerado_em": "2026-10-08T01:47:21+00:00",
+  "fechada_em": "2026-10-08T01:46:54Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "Marchettoo",
+    "ra": "231806632",
+    "nome": "Gabriel Vinicius Silva Marchetto"
+  },
+  "variante": {
+    "slug": "Prova-escola-TI-B",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 550,
+    "FRACAO_MINUTOS": 15,
+    "TETO_DIARIO_CENTAVOS": 8000,
+    "PORTA_SERVICO": 8004,
+    "TOLERANCIA_MINUTOS": 0
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-08T00:30:31Z",
+    "ultimo_push": "2026-10-07T22:45:55-03:00"
+  },
+  "commits": {
+    "total": 15,
+    "autores": [
+      "Marchettoo"
+    ],
+    "primeiro": "2026-10-07T21:10:47-03:00",
+    "ultimo": "2026-10-07T22:45:55-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 15
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 2
+  }
+}
